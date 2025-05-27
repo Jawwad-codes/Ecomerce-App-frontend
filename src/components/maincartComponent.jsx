@@ -67,7 +67,7 @@ const MainCartComponent = () => {
     0
   );
 
-  const discount = subtotal > 0 ? 60.0 : 0.0;
+  const discount = subtotal > 0 ? 60.0 : 0.009;
   const tax = subtotal > 0 ? 14.0 : 0.0;
   const total = subtotal - discount + tax;
 
