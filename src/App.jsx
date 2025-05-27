@@ -5,7 +5,7 @@ import "./index.css";
 import Home from "./Pages/HomePage"; //
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import ProductSearch from "./Pages/ProductsPage";
+import ProductSearch from "./Pages/ProductSearch";
 import ProductDetailPage from "./Pages/ProductDetailPage";
 import AddTocartPage from "./Pages/AddTocartPage";
 import { Route, Router, Routes } from "react-router";
