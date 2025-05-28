@@ -4,7 +4,7 @@ import SupplierForm from "./SupplierForm";
 
 const AllSupplier = () => {
   return (
-    <div className="md:px-4 lg:px-[7.8%] py-10">
+    <div className="md:px-4  py-10">
       <div className="container mx-auto  overflow-hidden ">
         <div className="rounded-none relative w-full h-48 sm:h-60 md:h-72 lg:h-80 xl:h-[650px] md:rounded-md overflow-hidden">
           <img
