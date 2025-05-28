@@ -5,7 +5,7 @@ import StarRatingText from "./StarRattingtext";
 import SetPriceRange from "./SetPriceRange";
 import BrandAndFeaturesList from "./BrandAndFeaturesList";
 import ProductsList from "./ProductsList";
-const MenuOfProducts = () => {
+const MenuProducts = () => {
   const [isPriceDropdownOpen, setIsPriceDropdownOpen] = useState(false);
 
   const Category = [
@@ -95,4 +95,4 @@ const MenuOfProducts = () => {
     </div>
   );
 };
-export default MenuOfProducts;
+export default MenuProducts;

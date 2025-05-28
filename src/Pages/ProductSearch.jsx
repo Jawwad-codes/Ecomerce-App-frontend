@@ -3,14 +3,14 @@
 import React from "react";
 import TopofTheList from "../components/TopofTheList";
 import NewsLetter from "../components/NewsLetter";
-import MenuOfProducts from "../components/MenuProducts";
+import MenuProducts from "../components/MenuProducts";
 
 const ProductSearch = () => {
   return (
     <>
       <div className="bg-[#F7FAFC]">
         <TopofTheList />
-        <MenuOfProducts />
+        <MenuProducts />
         <NewsLetter />
       </div>
     </>
