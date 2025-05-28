@@ -4,7 +4,7 @@ import React from "react";
 
 const ShopNow = () => {
   return (
-    <section className="w-full px-3 sm:px-6  py-10 md:px-[5.8%]">
+    <section className="w-full px-4 sm:px-6  py-10">
       <div className="container mx-auto">
         <div className="bg-gradient-to-r from-blue-500 to-blue-800 text-white rounded-md px-6 sm:px-10 lg:px-16 py-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">

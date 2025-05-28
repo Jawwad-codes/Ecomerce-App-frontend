@@ -9,7 +9,7 @@ const HomeandOutdoor = () => {
   const { Interier } = useContext(ProductContext);
 
   return (
-    <div className="px-4  py-10">
+    <div className="px-6  py-10">
       <div className="md:hidden mb-4">
         <h1 className="text-xl font-semibold text-black">Home and Outdoor</h1>
       </div>

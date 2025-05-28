@@ -32,7 +32,7 @@ const ExtraServices = () => {
   ];
 
   return (
-    <div className="w-full px-3 sm:px-6  py-10">
+    <div className="w-full px-4 sm:px-6  py-10">
       <div className="container mx-auto">
         <h1 className="text-2xl font-bold mb-8">Our Extra Services</h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">

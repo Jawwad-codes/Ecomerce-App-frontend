@@ -57,7 +57,7 @@ const ConsumerElectronicsGadgets = () => {
   ];
 
   return (
-    <div className="px-4 ">
+    <div className="px-6 ">
       <div className="md:hidden mb-4">
         <h1 className="text-xl font-semibold text-black">
           Consumer electronics

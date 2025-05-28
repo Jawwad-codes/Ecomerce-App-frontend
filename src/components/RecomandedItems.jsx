@@ -8,7 +8,7 @@ const RecomandedItems = () => {
   const { Fashion } = useContext(ProductContext);
 
   return (
-    <div className="w-full px-3 sm:px-6 xl py-10 -mb-5">
+    <div className="w-full px-4 sm:px-6 xl py-10 -mb-5">
       <div className="container mx-auto">
         <h1 className="text-xl font-semibold md:text-2xl md:font-bold mb-8">
           Recommended Items

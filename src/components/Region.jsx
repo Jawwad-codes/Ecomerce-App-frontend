@@ -5,7 +5,7 @@ import { countries } from "./Flagdropdown";
 
 const Region = () => {
   return (
-    <div className="w-full  py-10">
+    <div className="w-full px-4  py-10">
       <div className="container mx-auto">
         <h1 className="text-2xl font-bold mb-5 sm:mx-auto px-5 md:text-left md:px-0">
           Suppliers by region
